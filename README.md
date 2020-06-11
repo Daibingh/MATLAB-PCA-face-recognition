@@ -1,2 +1,2 @@
 - [详细介绍](https://Daibingh.github.io/2018/12/05/基于-PCA-人脸识别-MATLAB-实现/)
-- 一个简单的识别+检测 [GUI](https://github.com/Daibingh/FRBP)
+- 一个简单的检测+识别 [GUI](https://github.com/Daibingh/FRBP)
